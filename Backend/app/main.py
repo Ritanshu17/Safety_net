@@ -2,6 +2,8 @@ from fastapi import FastAPI
 import redis
 import time
 import random
+import pandas 
+
 
 app = FastAPI()
 
