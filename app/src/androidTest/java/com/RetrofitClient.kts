@@ -1,5 +1,4 @@
-import retrofit2.Retrofit
-import retrofit2.converter.gson.GsonConverterFactory
+package com 
 
 object RetrofitClient {
     val api: ApiService by lazy {
